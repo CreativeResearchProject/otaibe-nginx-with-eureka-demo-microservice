@@ -2,6 +2,8 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
+https://dzone.com/articles/nginx-with-eureka-instead-of-spring-cloud-gateway
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Build docker image and run
